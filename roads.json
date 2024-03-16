@@ -1,0 +1,14 @@
+[
+  {
+    "road_type": "Bad", "length": 25
+  },
+  {
+    "road_type": "Smooth","length": 50
+  },
+  {
+    "road_type": "Gravel", "length": 30
+  },
+  {
+    "road_type" : "Traffic", "length": 60
+  }
+]
